@@ -20,9 +20,8 @@ Este é um aplicativo de **Quiz sobre Ciência da Computação** desenvolvido co
 ## 📷 Capturas de Tela
 
 <p align="center">
-  <img src="./assets/screenshots/tela-inicial.png" width="250" />
-  <img src="./assets/screenshots/pergunta.png" width="250" />
-  <img src="./assets/screenshots/resultado.png" width="250" />
+  <img src=".quiz-ciencia-computacao/assets/screenshots/pergunta.png" width="250" />
+  <img src=".quiz-ciencia-computacao/assets/screenshots/resultado.png" width="250" />
 </p>
 
 ## 📦 Instalação
